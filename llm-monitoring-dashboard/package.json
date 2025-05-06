@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/recharts": "^2.0.1"
+  },
+  "dependencies": {
+    "@types/react-modal": "^3.16.3",
+    "@types/react-select": "^5.0.1",
+    "react-modal": "^3.16.3",
+    "react-select": "^5.10.1",
+    "reactflow": "^11.11.4"
+  }
+}
